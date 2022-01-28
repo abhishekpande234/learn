@@ -1,0 +1,24 @@
+{
+  "Questions": [
+    {
+      "question": "What is JSX?",
+      "answer": "JSX is a syntax extension of JavaScript. It is used with React to describe what the user interface should look like. By using JSX, we can write HTML structures in the same file that contains JavaScript code",
+      "id": 1
+    },
+    {
+      "question": "What is an event in React?",
+      "answer": "An event is an action that a user or system may trigger, such as pressing a key, a mouse click, etc.\n\nReact events are named using camelCase, rather than lowercase in HTML.\nWith JSX, you pass a function as the event handler, rather than a string in HTML.",
+      "id": 3
+    },
+    {
+      "question": "What is the use of render() in React?",
+      "answer": "It is required for each component to have a render() function. This function returns the HTML, which is to be displayed in the component.\nIf you need to render more than one element, all of the elements must be inside one parent tag like <div>, <form>.",
+      "id": 4
+    },
+    {
+      "question": "Is Rishi Single?",
+      "answer": "Unfortunately No",
+      "id": 5
+    }
+  ]
+}

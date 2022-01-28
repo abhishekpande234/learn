@@ -1,0 +1,40 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Source Sans Pro", sans-serif;
+}
+html{
+    font-size: 62.5%;
+} */
+.main-div{
+    min-height: 100vh;
+    /* background-color: rgb(7, 7, 65); */
+    /* display:flex; */
+    justify-content: center;
+
+}
+.add-btn:hover{
+    color: aqua;    
+}
+
+.trash-btn:hover{
+    color:red;    
+}
+.eachItem{
+    margin-top: 20px;
+    padding-left: 40%;
+}
+.eachSingleItem{
+     height:100%;
+    width:30%; 
+    
+    color:lavender;
+    background-color:rgb(27, 26, 26);
+}
+.trash-btn{
+    color: rgb(255, 255, 255);
+}
+.removeButton{
+    margin-top: 20px;
+}
