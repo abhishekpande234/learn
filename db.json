@@ -14,11 +14,6 @@
       "question": "What is the use of render() in React?",
       "answer": "It is required for each component to have a render() function. This function returns the HTML, which is to be displayed in the component.\nIf you need to render more than one element, all of the elements must be inside one parent tag like <div>, <form>.",
       "id": 4
-    },
-    {
-      "question": "Is Rishi Single?",
-      "answer": "Unfortunately No",
-      "id": 5
     }
   ]
 }
